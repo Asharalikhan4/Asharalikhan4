@@ -9,6 +9,10 @@ I am a Mern Stack Web Developer.
 * 🧠  I'm currently learning Machine learning.
 * 🤝  I'm open to collaborating on web dev projects.
 
+### Places where i practice DSA
+- [LeetCode](https://leetcode.com/https://leetcode.com/ashar-4/)
+- [HackerRank](https://www.hackerrank.com/contactashar4)
+
 ### Skills
 
 <p align="left">
