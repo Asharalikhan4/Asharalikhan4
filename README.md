@@ -6,7 +6,6 @@ I am a Mern Stack Web Developer.
 
 * 🌍  I'm based in Lucknow,India.
 * ✉️  You can contact me at [contactashar4@gmail.com](mailto:contactashar4@gmail.com)
-* 🧠  I'm currently learning Machine learning.
 * 🤝  I'm open to collaborating on web dev projects.
 
 ### Places where i practice DSA
