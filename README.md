@@ -13,8 +13,8 @@ I am a Mern Stack Web Developer.
 ### Places where i practice DSA
 
 - [LeetCode](https://leetcode.com/ashar-4/)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/contactq99y/practice/)
 - [HackerRank](https://www.hackerrank.com/contactashar4)
-- [Codeforces](https://codeforces.com/profile/contactashar4)
 
 ### Skills
 
