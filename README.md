@@ -4,7 +4,7 @@ Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 I am a Mern Stack Web Developer.
 ------------------------
 
-* 👤 [My Portfolio](www.contactashar.com)
+* 👤 [My Portfolio](https://www.contactashar.me)
 * 📄 [Resume](https://drive.google.com/file/d/1qF3MgS0zHUbwPTyJpEBvF1NrErTYxNHW/view?usp=share_link)
 * 🌍  I'm based in Lucknow,India.
 * ✉️  You can contact me at [contactashar4@gmail.com](mailto:contactashar4@gmail.com)
