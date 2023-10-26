@@ -5,7 +5,7 @@ I am a Mern Stack Web Developer.
 ------------------------
 
 * 👤 [My Portfolio](https://www.contactashar.me)
-* 📄 [Resume](https://drive.google.com/file/d/1HY_dTmLGwzMh4b-XBf91yP9m198Gdvbk/view?usp=drive_link)
+* 📄 [Resume](https://drive.google.com/file/d/13s0yR3ZfdYsY6wU2i3TmP6jwz3wNHNTo/view)
 * 🌍  I'm based in Lucknow,India.
 * ✉️  You can contact me at [contactashar4@gmail.com](mailto:contactashar4@gmail.com)
 * 🤝  I'm open to collaborating on web dev projects.
