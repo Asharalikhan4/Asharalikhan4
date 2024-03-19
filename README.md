@@ -1,7 +1,7 @@
 Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="waving hand animated gif" height="45" width="45"/> My name is Ashar Ali Khan
 ===============================
 
-I am a Mern Stack Web Developer.
+I am a Mern Stack Web Developer
 ------------------------
 
 * 👤 [My Portfolio](https://www.contactashar.me)
