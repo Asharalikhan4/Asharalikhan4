@@ -1,4 +1,4 @@
-* 📄 [Resume](https://drive.google.com/file/d/19Tgw-Gm9Sv2QWGrWukBHZPZfTV5OTB_e/view?usp=sharing)
+* 📄 [Resume](https://drive.google.com/file/d/1aaseDLcuK-4wE0TWWzE7BX3xa1GWKI0z/view?usp=sharing)
 
 <a href="http://www.github.com/Asharalikhan4"><img src="https://github-readme-stats.vercel.app/api?username=Asharalikhan4&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Asharalikhan4's GitHub stats" /></a>
 
